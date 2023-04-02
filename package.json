@@ -1,0 +1,23 @@
+{
+  "name": "webcrawler",
+  "version": "1.0.0",
+  "description": "Web Application web scraping.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/letsdo1/webcrawler.git"
+  },
+  "author": "Pankaj Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/letsdo1/webcrawler/issues"
+  },
+  "homepage": "https://github.com/letsdo1/webcrawler#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
